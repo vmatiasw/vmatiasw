@@ -29,7 +29,7 @@ I am a **Software Developer** and a **Computer Science Student** at [FAMAF](http
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <!-- Telegram -->
-  <a href="https://t.me/@vmatiasw" target="_blank">
+  <a href="https://t.me/vmatiasw" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" style="margin-right: 10px;" />
   </a>
 </p>
